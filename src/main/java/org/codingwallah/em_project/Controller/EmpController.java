@@ -1,9 +1,11 @@
-package org.codingwallah.em_project;
+package org.codingwallah.em_project.Controller;
 
 import org.springframework.web.bind.annotation.RestController;
 
 import java.util.List;
 
+import org.codingwallah.em_project.Model.Employee;
+import org.codingwallah.em_project.Service.EmployeeService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.DeleteMapping;
 import org.springframework.web.bind.annotation.GetMapping;

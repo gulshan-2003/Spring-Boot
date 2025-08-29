@@ -1,4 +1,4 @@
-package org.codingwallah.em_project;
+package org.codingwallah.em_project.Entity;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;

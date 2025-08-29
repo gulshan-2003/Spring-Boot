@@ -1,4 +1,4 @@
-package org.codingwallah.em_project;
+package org.codingwallah.em_project.Model;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

@@ -1,8 +1,11 @@
-package org.codingwallah.em_project;
+package org.codingwallah.em_project.Service;
 
 import java.util.ArrayList;
 import java.util.List;
 
+import org.codingwallah.em_project.Entity.EmployeeEntity;
+import org.codingwallah.em_project.Model.Employee;
+import org.codingwallah.em_project.Repository.EmployeeRepository;
 import org.springframework.beans.BeanUtils;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
